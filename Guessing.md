@@ -13,11 +13,11 @@ flowchart TD
  A --> B
  B --> C
  C --> D
- D - User input non-numeric or out of range -> C
+ D -->|User input non-numeric or out of range| C
  D --> E
- E - markdown["`User input < number variable`"] -> F
- E - markdown["`User input == number variable`"] -> G
- E - markdown["`User input > number variable`"] -> H
+ E -->|User input < number variable| F
+ E -->|User input == number variable| G
+ E -->|User input > number variable| H
  F & H --> C
  G --> I
 ```
