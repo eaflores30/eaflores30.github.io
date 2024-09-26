@@ -10,4 +10,4 @@ In my free time, I mostly enjoy playing video games. My favorites include _Splat
 
 ## Websites I Recommend
 * [YouTube](https://www.youtube.com) - I spend a lot of time on YouTube, for both entertainment and education reasons. I find the diverse content very interesting.
-* [Showdown!][https://play.pokemonshowdown.com] - As previously mentioned, _Pokemon_ is one of my favorite games. This website is very unique and allows me to battle players from around the world in _Pokemon_.
+* [Showdown!](https://play.pokemonshowdown.com) - As previously mentioned, _Pokemon_ is one of my favorite games. This website is very unique and allows me to battle players from around the world in _Pokemon_.
